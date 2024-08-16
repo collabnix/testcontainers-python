@@ -2,6 +2,19 @@
 
 Test-Driven Development with Python, Testcontainers, and pytest
 
+## Prereq
+
+- Docker Desktop
+
+
+## Clone the repository
+
+```
+git clone https://github.com/collabnix/testcontainers-python
+cd testcontainers-python
+```
+
+
 ## Create a virtual environment
 
 ```shell
